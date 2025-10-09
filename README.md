@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on Avocado<br>💬 Ask me about Python Selenium Automation<br>👨‍💻 Associate Software Engineer Red Hat<br>⚡ All of my projects are available here :)
+🔭 I’m currently working on Avocado<br>💬 Ask me about Python Selenium Automation<br>👨‍💻 Software Engineer Red Hat<br>⚡ All of my projects are available here :)
 
 
 # 💻 Tech Stack:
